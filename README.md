@@ -1,2 +1,3 @@
 # first-repo
-trying... trying
+Hi there, and welcome! I’m a beginner web developer currently studying computer science, with a strong focus on web development using the MERN stack (MongoDB, Express, React, Node.js). While I’m still early in my journey, I’m passionate about building web applications and excited to learn and grow in this field. This portfolio showcases some of the projects I’ve worked on, as well as my dedication to mastering new technologies and solving problems creatively. I’m always eager to take on new challenges, improve my skills, and collaborate with others. Feel free to check out my work, and don’t hesitate to get in touch if you’d like to chat or offer advice!
+
